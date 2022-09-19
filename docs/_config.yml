@@ -1,0 +1,20 @@
+##
+## gerihifi audio-enthusiastic stuff....
+##
+title: gerihifi
+description: All about music and high-fidelity audio...audio-enthusiastic, maybe audiophiliac
+
+content_type:  #Define whether this is a knowledge base, help center, or something else
+use_authors: false #Set this to false to disable showing post authors
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-last-modified-at
+theme: minima
+
+# Exclude from processing.
+sass:
+  sass_dir:          _scss
+  style:            :compressed
