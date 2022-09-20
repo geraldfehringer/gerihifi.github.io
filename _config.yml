@@ -35,15 +35,15 @@ twitter_handle: '@zerohat'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/zerohat
-    desc: Follow me on twitter
+    url: 
+    desc: 
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	github
-    url:	https://github.com/geraldfehringer
-    desc:	Fork me on github
+    url:	
+    desc:	
     share_url:
     share_title:
     share_link:
