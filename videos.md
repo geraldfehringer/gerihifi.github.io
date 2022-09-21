@@ -44,13 +44,11 @@ image: /assets/images/youtube-background1.jpg
 
 ---
 
-dasdsa
-dasdsa
 
->>Not so commonly watched, like the above, but recommended:
->>
->> - **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
->> - **The Hans Beekhuyzen Channel**, https://www.youtube.com/c/TheHansBeekhuyzenChannel
->> - **Audioholics**, https://www.youtube.com/c/Audioholics
->> - **TheAlphaAudio**, https://www.youtube.com/c/Alpha-audioNl
->> - **Golden Sound**, https://www.youtube.com/c/GoldenSound
+**Not so commonly watched, like the above, but recommended:**
+
+- **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
+- **The Hans Beekhuyzen Channel**, https://www.youtube.com/c/TheHansBeekhuyzenChannel
+- **Audioholics**, https://www.youtube.com/c/Audioholics
+- **TheAlphaAudio**, https://www.youtube.com/c/Alpha-audioNl
+- **Golden Sound**, https://www.youtube.com/c/GoldenSound
