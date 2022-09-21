@@ -44,6 +44,9 @@ image: /assets/images/youtube-background1.jpg
 
 ---
 
+dasdsa
+dasdsa
+
 >>Not so commonly watched, like the above, but recommended:
 >>
 >> - **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
@@ -51,5 +54,3 @@ image: /assets/images/youtube-background1.jpg
 >> - **Audioholics**, https://www.youtube.com/c/Audioholics
 >> - **TheAlphaAudio**, https://www.youtube.com/c/Alpha-audioNl
 >> - **Golden Sound**, https://www.youtube.com/c/GoldenSound
-
-

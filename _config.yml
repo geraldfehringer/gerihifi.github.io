@@ -20,7 +20,7 @@ name: 'Geri'
 author: 'Geri F.'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	7
 
 url: "https://gerihifi.zerohat.eu" # the base hostname & protocol for your site
 baseurl: ""
