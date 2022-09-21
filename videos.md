@@ -31,3 +31,13 @@ image: /assets/images/youtube-background1.jpg
 >>He is also a very knowledgeable person, with industry background.
 >>Torsten is not going so technical like Janos, but provides very well-thoughted
 >>opinions of key topics and industry epic-fails/craziness.
+
+---
+
+![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Fernando - SkyFiAudio") **Fernando - [https://www.youtube.com/c/SkyFiAudio](https://www.youtube.com/c/SkyFiAudio)** [english]
+
+>>Fernando is based in Glen Rock (New Jersey) and is for me **_Mr.Vintage_**!
+>>His video-tours through his **awesome** vintage garage are really a must-watch.
+>>He also provides a lot of insights concerning certain history-technology and build
+>>quality. Useful to find some equipment which may not cost as much as fancy-looking
+>>new ones and even outperforms new gear!
