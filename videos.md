@@ -8,17 +8,29 @@ image: /assets/images/youtube-background1.jpg
 ## YouTube Channel's
 <br />
 
->My curated YouTube channel list I follow and reason why. \
->I do not follow people who are just comparing new hifi gear. \
->I stop avoiding this purchasing-hamster-wheel. \
+>My curated YouTube channel list I follow and reason why.
+>I do not follow people who are just comparing new hifi gear.
+>I stop avoiding this purchasing-hamster-wheel.
 >**Getting the best system in the world for yourself, means: tune it**!
 
 ---
 
-![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Janos - Real World Audio") **Janos - Real World Audio**
+![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Janos - Real World Audio") **Janos - [Real World Audio](https://www.youtube.com/channel/UCJpI9UmNdGYeb5IVL6IMVVA/playlists?view=1)**
 
 >>Janos is based in Hawaii and is for me **_the HiFi-Mentor_**!
->>He has such a knowledgeable person, without working in the industry & try to sell something
->>I've not find any serious Audiophile YouTuber, coming closely to what Janos is doing
+>>He has such a knowledgeable person, without working in the industry & try to sell something.
+>>I've not find any serious Audiophile YouTuber, coming closely to what Janos is doing.
 >>YES, sometimes very hard to follow, but on the other hand: **if you wanna build the best system
->>in the world, you need to understand a lot of HiFi & music aspects!**
+>>in the world, you need to understand a lot of HiFi & music aspects aka foundation!**
+
+
+{% highlight js %}
+
+<footer class="site-footer">
+ <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+  <div class="inner">a
+   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
+   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+  </div>
+</footer>
+{% endhighlight %}
