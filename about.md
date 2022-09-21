@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/images/about-me.png
 ---
 
 Just a human with passion in listening music, learning new things and lucky-one to leave in a safe, wealthy country.
