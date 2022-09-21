@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "gerihifi"
 description: > # this means to ignore newlines until "email:"
-   All about my audiophiliac journey - listen/learn/enjoy/contribute
+   All about my audiophiliac journey - listen|learn|enjoy|contribute.
 
 email: gf@zerohat.net
 #blog logo
