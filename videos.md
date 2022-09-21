@@ -2,6 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
+image: /assets/images/gerihifi-banner.png
 ---
 
 ## YouTube Channel's
@@ -13,4 +14,3 @@ permalink: /videos/
 >**Getting the best system in the world for yourself, means: tune it**!
 
 ![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Janos - Real World Audio") **Janos - Real World Audio**
-
