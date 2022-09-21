@@ -34,10 +34,22 @@ image: /assets/images/youtube-background1.jpg
 
 ---
 
-![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Fernando - SkyFiAudio") **Fernando - [https://www.youtube.com/c/SkyFiAudio](https://www.youtube.com/c/SkyFiAudio)** [english]
+![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Fernando - SkyFiAudio") **Fernando - [SkyFiAudio](https://www.youtube.com/c/SkyFiAudio)** [english]
 
 >>Fernando is based in Glen Rock (New Jersey) and is for me **_Mr.Vintage_**!
 >>His video-tours through his **awesome** vintage garage are really a must-watch.
 >>He also provides a lot of insights concerning certain history-technology and build
 >>quality. Useful to find some equipment which may not cost as much as fancy-looking
 >>new ones and even outperforms new gear!
+
+---
+
+>>Not so commonly watched, like the above, but recommended:
+>>
+>> - **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
+>> - **The Hans Beekhuyzen Channel**, https://www.youtube.com/c/TheHansBeekhuyzenChannel
+>> - **Audioholics**, https://www.youtube.com/c/Audioholics
+>> - **TheAlphaAudio**, https://www.youtube.com/c/Alpha-audioNl
+>> - **Golden Sound**, https://www.youtube.com/c/GoldenSound
+
+
