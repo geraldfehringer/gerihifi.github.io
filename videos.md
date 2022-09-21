@@ -27,24 +27,25 @@ image: /assets/images/youtube-background1.jpg
 
 ![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Torsten - Snake Oil Audio") **Torsten - [Snake Oil Audio](https://www.youtube.com/channel/UCQFGU3xz1EL20pDYVyTk9LQ)** [german]
 
->>Similar like Janos, the German-answer, living in Ruhrpott :-)
+>>Similar like Janos, the German-answer - living in Ruhrpott :-)
 >>He is also a very knowledgeable person, with industry background.
 >>Torsten is not going so technical like Janos, but provides very well-thoughted
->>opinions of key topics and industry epic-fails/craziness.
+>>opinions of key topics and industry epic-fails/craziness. Also he has
+>>sometimes very good interviews with other people. **It's a Podcast, no fancy UXHD** ;-)
 
 ---
 
 ![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Fernando - SkyFiAudio") **Fernando - [SkyFiAudio](https://www.youtube.com/c/SkyFiAudio)** [english]
 
 >>Fernando is based in Glen Rock (New Jersey) and is for me **_Mr.Vintage_**!
->>His video-tours through his **awesome** vintage garage are really a must-watch.
+>>His video-tours through his **awesome** vintage garage are really **a must-watch**.
 >>He also provides a lot of insights concerning certain history-technology and build
 >>quality. Useful to find some equipment which may not cost as much as fancy-looking
 >>new ones and even outperforms new gear!
 
 ---
 
-**Not so commonly watched, like the above, but recommended:**
+**Not so commonly watched like the above, but recommended:**
 
 - **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
 - **The Hans Beekhuyzen Channel**, https://www.youtube.com/c/TheHansBeekhuyzenChannel
