@@ -44,7 +44,6 @@ image: /assets/images/youtube-background1.jpg
 
 ---
 
-
 **Not so commonly watched, like the above, but recommended:**
 
 - **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
