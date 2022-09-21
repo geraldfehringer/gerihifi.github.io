@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
-image: /assets/images/gerihifi-banner.png
+image: /assets/images/youtube-background1.jpg
 ---
 
 ## YouTube Channel's
