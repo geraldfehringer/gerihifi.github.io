@@ -15,7 +15,7 @@ image: /assets/images/youtube-background1.jpg
 
 ---
 
-![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Janos - Real World Audio") **Janos - [Real World Audio](https://www.youtube.com/channel/UCJpI9UmNdGYeb5IVL6IMVVA/playlists?view=1)**
+![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Janos - Real World Audio") **Janos - [Real World Audio](https://www.youtube.com/channel/UCJpI9UmNdGYeb5IVL6IMVVA/playlists?view=1)** [english]
 
 >>Janos is based in Hawaii and is for me **_the HiFi-Mentor_**!
 >>He has such a knowledgeable person, without working in the industry & try to sell something.
@@ -23,14 +23,11 @@ image: /assets/images/youtube-background1.jpg
 >>YES, sometimes very hard to follow, but on the other hand: **if you wanna build the best system
 >>in the world, you need to understand a lot of HiFi & music aspects aka foundation!**
 
+---
 
-{% highlight js %}
+![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Torsten - Snake Oil Audio") **Torsten - [Snake Oil Audio](https://www.youtube.com/channel/UCQFGU3xz1EL20pDYVyTk9LQ)** [german]
 
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+>>Similar like Janos, the German-answer, living in Ruhrpott :-)
+>>He is also a very knowledgeable person, with industry background.
+>>Torsten is not going so technical like Janos, but provides very well-thoughted
+>>opinions of key topics and industry epic-fails/craziness.
