@@ -33,10 +33,26 @@ As you see in the picture, there are several 'nuances/blur', because there are m
 
 | DAC Type | Format | Notes |
 | :--- | :--- | :--- |
-| R2R Ladder - NOS | complex design, non-oversampling PCM | |
-| R2R Ladder | complex design, oversampling PCM (filters) | |
-| Sigma-Delta PCM | Single-bit or multi-bit, simpler design | |
-| DSD | Single-bit | complex design, initially introduced by SACD, can be native edited without interm. conversation |
+| R2R Ladder - NOS | Complex design, non-oversampling PCM | Very popular, even it is an old design approach. Used by Denafrips or HoloAudio and many others. |
+| R2R Ladder | Complex design, oversampling PCM (filters) | Also many vendors available  |
+| Sigma-Delta PCM | Single-bit or multi-bit, simpler design | Long tradition and many High End vendors still using that approach, like Weiss, Audio Note or Lampizator  |
+| DSD | Single-bit | Simpler design (e.g. FPGA) | initially introduced by SACD, can be native edited without interm. conversation |
+
+The very High-end DAC vendors, like MSB, dCS, Playback Design, Nagra, Chord or Mola Mola show the latest techniques.
+
+**Others like Lampizator, Nagra or Audio Note use tubes for the input / output stages and not just FPGA-fanciness and filtering all over the place.**
+
+On the other hand, there are traditional designers who have a different approach and to integrate vintage-based components, as well focusing on well-balanced tube integrations. Like [Abbas Audio](https://www.abbasaudio.com/), [SW1x](https://sw1xad.co.uk/) or [Audio Note](https://www.audionote.co.uk/dacs). **My personal preference.**
+
+
+**Are there any difference?**
+
+- YES, massive difference if you have a good HiFi chain (doesn't mean expensive!!) with sensitive speakers
+- R2R & Tube-based DAC's, many time not so 'harsh' and 'analytical'. Of course High-End vendors like Playback Design or MSB, dCS do quiet some perfection on their filtering.
+- There are definitely price ranges where you get some improvement, like <€5k / <€10k / <€25k
+- Do you really get anything audible 'better' over €25k - **I personally would say no, it's just a matter of brand/reputation you wanna own**, much more tuning you can do on Pre-AMP/AMP/Interconnects/Power supplies and most important: **room accoustic treatments**!
+- **Never, ever trust DAC-reviews or at usual HiFi store listening rooms - **your need to test them in your chain, in your room & environment!**
+- New DAC needs burn-in time, don't underestimate & how much it can change after 100h+!
 
 ---
 
