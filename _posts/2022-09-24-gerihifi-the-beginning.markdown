@@ -24,7 +24,7 @@ Than I'd a long pause and started with more serious, dedicated listening HiFi ge
 >[^1] While analogue signals can be continuous and provide an infinite number different voltage values, digital circuits on the other hand work with binary signal which have only two discrete states, a logic "1" (HIGH) or a logic "0" (LOW).
 >So it is necessary to have an electronic circuit which can convert between the two different domains of continuously changing analogue signals and discrete digital signals, and this is where Analogue-to-Digital Converters (A/D) come in.
 
-> ![]({{ "/assets/article_images/adc-voltage.png" | prepend: site.baseurl }} "input-output tolerances")
+> ![]({{ "/assets/article_images/2022-09-24-gerihifi-the-beginning/adc-voltage.png" | prepend: site.baseurl }} "input-output tolerances")
 
 >>**:notes: Milestone #2: Realizing, digital source for sure matters!**
 
