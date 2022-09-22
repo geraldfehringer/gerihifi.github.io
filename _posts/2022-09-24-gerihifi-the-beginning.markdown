@@ -7,9 +7,9 @@ tags: featured
 image: /assets/article_images/2022-09-24-gerihifi-the-beginning/dac1.png
 ---
 
->**_"Brain needs noise."_**
->**_"Without noise, it's artificial!"_**
->**_"Welcome to the world of digital...."_**
+>**_"Brain needs noise."_** \
+>&nbsp; &nbsp; **_"Without noise, it's artificial!"_** \
+>&nbsp; &nbsp; &nbsp; **_"Welcome to the world of digital...."_**
 
 **My journey with ADC or is it D/A :thinking:** .
 
@@ -17,12 +17,18 @@ image: /assets/article_images/2022-09-24-gerihifi-the-beginning/dac1.png
 
 Than I'd a long pause and started with more serious, dedicated listening HiFi gear again in 2009 (concerning my budget I'd back than). Of course, far away from getting crazy and bought the usual consumer speakers, solid state integrated amp and cheap digital streamer (who cares about digital source, right, it's just doing 00111000). Of course, as a computer nerd, played around with several different DIY audio servers.
 
->>**:notes: Milestone #1: Realizing, digital source for sure matters!**
+>>**:notes: Milestone #1: Choosing the right DAC, needs some basic architecture knowledge!**
+
 >**Bit's are not bits in the audio world! WHY? We do need voltages for analogue and therefore digital 00001111 (binary code) must be converted into 5V range.**
->
+
 >[^1] While analogue signals can be continuous and provide an infinite number different voltage values, digital circuits on the other hand work with binary signal which have only two discrete states, a logic "1" (HIGH) or a logic "0" (LOW).
+
 >So it is necessary to have an electronic circuit which can convert between the two different domains of continuously changing analogue signals and discrete digital signals, and this is where Analogue-to-Digital Converters (A/D) come in.
->
+
 > ![]({{ "/assets/article_images/adc-voltage.png" | prepend: site.baseurl }} "input-output tolerances")
 
-[^1]: Source: https://www.electronics-tutorials.ws/combination/analogue-to-digital-converter.html
+>>**:notes: Milestone #2: Realizing, digital source for sure matters!**
+
+>**c**
+
+[^1]: Source: [electronics-tutorials.ws](https://www.electronics-tutorials.ws/combination/analogue-to-digital-converter.html)
