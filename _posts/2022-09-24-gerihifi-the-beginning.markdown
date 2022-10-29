@@ -82,6 +82,10 @@ This is another topic which you need to carefully think about, because it can ge
 
 It is always important to mention, there are many time some serious difference using SPDIF/AES-EBU/USB or Coaxial RCA (don't use TOSLINK!). So play around with high-quality cables (yes, this is another topic I'll share my personal experience ;-)
 
+**My current setup (29/20/2022)**:
+
+![]({{ "/assets/article_images/2022-09-24-gerihifi-the-beginning/20221029_142019.jpg" | prepend: site.baseurl }} "gerihifi chain")
+
 ---
 
 [^1]: Source: [electronics-tutorials.ws](https://www.electronics-tutorials.ws/combination/analogue-to-digital-converter.html)
