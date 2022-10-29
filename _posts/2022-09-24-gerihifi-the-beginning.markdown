@@ -11,7 +11,7 @@ image: /assets/article_images/2022-09-24-gerihifi-the-beginning/dac1.png
 >&nbsp; &nbsp; **_"Without noise, it's artificial!"_** \
 >&nbsp; &nbsp; &nbsp; _...welcome to the world of digital._
 
-**My journey with ADC or is it D/A :thinking:** .
+**My journey with ADC or is it D/A #PART1# :thinking:** .
 
 20+Y, I got rid of my large CD collection. I was never the Vinyl-guy and a big CD-chaser, before as many of us, I'd recorded anything what came closely to music on casette-deck (previously used by my C64 datassette).... you can assume, I'm not from the Z-Generation, more on the side of _'**I-AM-OLDER-THAN-THE-INTERNET**'_ :speak_no_evil:
 
@@ -74,6 +74,14 @@ There are so many processes in place, you can imagine, the master engineer is ta
 
 Yes, you can for sure start with simple streamer/bridge, like [HifiBerry](https://www.hifiberry.com/) or Bluesound [Node](https://bluesound-deutschland.de/products/node/), but once you have a good DAC, you should have a matching (all about synergy) Streamer or also called streaming bridge.
 
-**Important note:** of course, if you go into the really expensive DAC-ranges, many of those vendors do have streaming bridge in one device or offer 'matching' devices. My personal experience has shown, to separate this two functions to improve my sonics.
+**Important note:** of course, if you go into the really expensive DAC-ranges, many of those vendors do have streaming bridge in one device or offer 'matching' devices. My personal experience has shown, to separate this two functions it will improve sonics.
+
+This is another topic which you need to carefully think about, because it can get quiet expensive, if you wanna really get on the top-levels, like Antipodes [Oladra](https://antipodes.audio/oladra/) / K50, Taiko [Audio Extreme](https://taikoaudio.com/taiko-2020/product/extreme-high-end-music-server/) or Grimm [Audio MU1](https://www.grimmaudio.com/hifi-products/music-players/mu1/).
+
+**I personally don't like and need Roon, Audirvana or HQPlayer - I prefer a simple and straight forward network bridge.** I use at the moment an Lumin Mini U2 and replaced the internal PSU with an external [Ferrum Hypsos](https://ferrum.audio/hypsos/). 
+
+It is always important to mention, there are many time some serious difference using SPDIF/AES-EBU/USB or Coaxial RCA (don't use TOSLINK!). So play around with high-quality cables (yes, this is another topic I'll share my personal experience ;-)
+
+---
 
 [^1]: Source: [electronics-tutorials.ws](https://www.electronics-tutorials.ws/combination/analogue-to-digital-converter.html)
