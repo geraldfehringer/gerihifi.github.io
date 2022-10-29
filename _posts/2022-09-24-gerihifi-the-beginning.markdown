@@ -11,7 +11,7 @@ image: /assets/article_images/2022-09-24-gerihifi-the-beginning/dac1.png
 >&nbsp; &nbsp; **_"Without noise, it's artificial!"_** \
 >&nbsp; &nbsp; &nbsp; _...welcome to the world of digital._
 
-**My journey with ADC or is it D/A #PART1# :thinking:** .
+**My journey with ADC or is it D/A :thinking:** #PART1#
 
 20+Y, I got rid of my large CD collection. I was never the Vinyl-guy and a big CD-chaser, before as many of us, I'd recorded anything what came closely to music on casette-deck (previously used by my C64 datassette).... you can assume, I'm not from the Z-Generation, more on the side of _'**I-AM-OLDER-THAN-THE-INTERNET**'_ :speak_no_evil:
 
