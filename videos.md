@@ -45,10 +45,19 @@ image: /assets/images/youtube-background1.jpg
 
 ---
 
+![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "James - Tube Lab") **James & Charles Ross - [Tube Lab](https://www.youtube.com/channel/UC8oqw6k6yTYTDTlu1qfTFSg)** [english]
+
+>>This is for me a very, very knowledgeable person in regards of tubes
+>>He is located in Victoria Canada & his YT channel is a must-watch, especially newbies like myself
+>>Also with his Tube-Shop at [www.valvesnmore.com](www.valvesnmore.com) he offers really good tubes
+>>He is very helpful in choosing the right tubes and has very fair pricing (shipping not an issue)!!
+
+---
+
 **Not so commonly watched like the above, but recommended:**
 
-- **Steve Guttenberg**, https://www.youtube.com/c/SteveGuttenbergAudiophiliac
-- **The Hans Beekhuyzen Channel**, https://www.youtube.com/c/TheHansBeekhuyzenChannel
-- **Audioholics**, https://www.youtube.com/c/Audioholics
-- **TheAlphaAudio**, https://www.youtube.com/c/Alpha-audioNl
-- **Golden Sound**, https://www.youtube.com/c/GoldenSound
+- **Steve Guttenberg**, [https://www.youtube.com/c/SteveGuttenbergAudiophiliac](https://www.youtube.com/c/SteveGuttenbergAudiophiliac)
+- **The Hans Beekhuyzen Channel**, [https://www.youtube.com/c/TheHansBeekhuyzenChannel](https://www.youtube.com/c/TheHansBeekhuyzenChannel)
+- **Audioholics**, [https://www.youtube.com/c/Audioholics](https://www.youtube.com/c/Audioholics)
+- **TheAlphaAudio**, [https://www.youtube.com/c/Alpha-audioNl](https://www.youtube.com/c/Alpha-audioNl)
+- **Golden Sound**, [https://www.youtube.com/c/GoldenSound](https://www.youtube.com/c/GoldenSound)
