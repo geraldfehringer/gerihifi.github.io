@@ -91,8 +91,8 @@ It is always important to mention, there are many time some serious difference u
 Rotel Michi X5 --XLR--> WEISS DAC 501 (upgraded model: MkII-4ch/ESS9038-PRO) <--S/PDIF-- Lumin Mini U2 (with Ferrum Hypsos PSU) <--LAN-- Paul Pang Dual-OXCO
 
  ```mermaid
-flowchart LR;
-   A(Rotel Michi X5)-->|RCA|B(Pioneer PD-93 CD with BurrBrown PCM63 DAC);
+  graph LR;
+  A(Rotel Michi X5)-->|RCA|B(Pioneer PD-93 CD with BurrBrown PCM63 DAC);
  ```
 
 ![]({{ "/assets/article_images/2022-09-24-gerihifi-the-beginning/20221029_142019.jpg" | prepend: site.baseurl }} "gerihifi chain")
