@@ -2,23 +2,8 @@
 plugins:
   - jemoji
   - jekyll-paginate
-  - jekyll-spaceship
+  - jekyll-mermaid
   - faraday-retry
-
-# Mermaid plugin
-jekyll-spaceship:
-  processors:
-    - mermaid-processor
-  mermaid-processor:
-    mode: default
-    css:
-      class: mermaid
-    syntax:
-      code: 'mermaid'
-    config:
-      theme: default
-    src: https://mermaid.ink/svg/
-
 
 # Site settings
 title: "gerihifi"
