@@ -3,6 +3,11 @@ plugins:
   - jemoji
   - jekyll-paginate
   - jekyll-mermaid
+  - faraday-retry
+
+# Mermaid plugin
+mermaid:
+  version: "9.2.0-rc9"
 
 # Site settings
 title: "gerihifi"
