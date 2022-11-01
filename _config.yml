@@ -1,7 +1,8 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
+  - jekyll-mermaid-diagrams
 
 # Site settings
 title: "gerihifi"
