@@ -2,7 +2,7 @@
 plugins:
   - jemoji
   - jekyll-paginate
-  - jekyll-mermaid-diagrams
+  - jekyll-mermaid
 
 # Site settings
 title: "gerihifi"
