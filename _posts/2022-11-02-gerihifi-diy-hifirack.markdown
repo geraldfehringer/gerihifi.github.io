@@ -15,6 +15,17 @@ As I like simple and clean Hifi-chains, as well proper cabling - it was obvious 
 
 >>**:notes: Research STEP #1: Let's see what's the Hifi market offers, from simple to more advanced ones.
 
----
+I realized the usual vendors like Solidsteel, State of the Art, Creaktiv or Solid Tech looked somehow similar. On the other hand very _cold design_ as many of them use mainly metal, which I don't like at all.
 
-[^1]: Source: [Bassocontinuo Racks](https://bassocontinuo.biz/) 
+It was also interesting to experience real issues, to find a rack with some decent sized plates! What I mean with that?
+
+- I need enough space for modern Hifi equipment, like placing an bigger solid AMP (e.g. my Rotel Michi X5)
+- I wanna have enough space left on the plate, behind the equipment to place HighEnd cabling safely (e.g.: bigger power-outlets)
+- HiFi chassis do have all kind of sizes and especially chassis-depth
+- Of course stable standing, solid material and modular to add/remove levels
+- Using material which are not resonating by default, like glass or metal
+- ...always quite important: must fit our living room :smile:
+
+**Size matters!!**
+
+---
