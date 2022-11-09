@@ -13,11 +13,11 @@ image: /assets/article_images/2022-11-02-gerihifi-diy-hifirack/highendrack.jpg
 
 As I like simple and clean Hifi-chains, as well proper cabling - it was obvious that I need some decent rack to place the equipment in a sonic-optimal and safe way.
 
-Question 1: **Why do I need one?** - if you care about your equipment, it should be placed properly. Also from an safety prospective it makes sense (cabling, enough airflow between gear .. )
+**Question 1:** **Why do I need one?** - if you care about your equipment, it should be placed properly. Also from an safety prospective it makes sense (cabling, enough airflow between gear .. )
 
-Question 2: **Does it really influence the sound?** - yes, because anything powered with electricity will produce vibrations and of course sound waves (e.g. lower end frequency/bass) from speakers as well. You know how important good feets and spikes are for speakers! Of course, it doesn't mean it is an major impact, but as **everything in Hifi, it's about synergy & Rack is part of it!**. Let's get more technical here, we have 3 types of vibrations [^1]:
+**Question 2:** **Does it really influence the sound?** - yes, because anything powered with electricity will produce vibrations and of course sound waves (e.g. lower end frequency/bass) from speakers as well. You know how important good feets and spikes are for speakers! Of course, it doesn't mean it is an major impact, but as **everything in Hifi, it's about synergy & Rack is part of it!** Let's get more technical here, we have 3 types of vibrations [^1]:
 
->**:"I believe capacitors, resistors, transistors, and other component parts are sensitive to vibration!"_**
+>_**"I believe capacitors, resistors, transistors, and other component parts are sensitive to vibration!"_**
 
 - **Air-borne Vibration -** As we have seen, a speaker produces sound by moving air. Sound within the room causes vibrations-and/or resonances in the chassis, circuit board (s), and individual component parts of all electronic equipment. These vibrations induce various distortions in the signal, causing masking or veiling of the music to occur. Audiophiles have long been aware of the sensitive nature of tubes and tubed electronics to vibration. This condition has been termed microphonics when applied to the tube itself. Indeed, simply tapping on the glass envelope of a vacuum tube, or on the chassis of a very sensitive unit, produces audible emanations from the loudspeakers. In much the same way, but on a smaller scale, airborne (and structure-borne) vibrations will subtlety affect the sound produced by these units.
 
@@ -52,10 +52,25 @@ It was also interesting to experience real issues, to find a rack with some dece
 - Using material which are not resonating by default, like glass or metal
 - ...always quite important: must fit our living room :smile:
 
-**Size matters!!**
-
 >>**:notes: STEP #2: Define a basic, modular, nice-looking, wood-based DIY rack - with key absorber
+
+- Just use [draw.io](https://app.diagrams.net/) to create the initial design - Download XML [here](/assets/article_images/2022-11-02-gerihifi-diy-hifirack/hifirack_en.drawio)
+- It includes also absorber and spikes I use (BFly Audio & Viablue QTC)
+- Wood: BauBuche Paneel (no idea how to translate into Englisch ;-)
+- Oiling: Rubio Monocoat Oil plus 2C Havanna
+
+**Some impressions....**
+
+![]({{ "/assets/article_images/2022-11-02-gerihifi-diy-hifirack/20221029_142019.jpg" | prepend: site.baseurl }} "gerihifi diy rack")
+
+![]({{ "/assets/article_images/2022-11-02-gerihifi-diy-hifirack/20221016_095114.jpg" | prepend: site.baseurl }} "gerihifi diy rack")
+
+![]({{ "/assets/article_images/2022-11-02-gerihifi-diy-hifirack/20221010_124009.jpg" | prepend: site.baseurl }} "gerihifi diy rack")
+
+![]({{ "/assets/article_images/2022-11-02-gerihifi-diy-hifirack/20221109_093109.jpg" | prepend: site.baseurl }} "gerihifi diy rack")
+
+![]({{ "/assets/article_images/2022-11-02-gerihifi-diy-hifirack/20221109_093127.jpg" | prepend: site.baseurl }} "gerihifi diy rack")
 
 ---
 
-[^1]: Source: https://www.gcaudio.com/tips-tricks/vibration-origins-effects-solutions/
+[^1]: Source: [https://www.gcaudio.com/tips-tricks/vibration-origins-effects-solutions/](https://www.gcaudio.com/tips-tricks/vibration-origins-effects-solutions/)
