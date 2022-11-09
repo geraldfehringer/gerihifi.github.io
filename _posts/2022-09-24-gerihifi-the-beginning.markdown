@@ -3,7 +3,6 @@ layout: post
 title:  "ADC - Digital dream or epic flaw - PT.1?"
 date:   2022-09-22 01:00:01
 categories: hifi start dac
-tags: featured
 image: /assets/article_images/2022-09-24-gerihifi-the-beginning/dac1.png
 ---
 
