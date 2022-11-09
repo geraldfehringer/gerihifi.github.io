@@ -6,11 +6,11 @@ categories: hifi diy speakers
 image: /assets/article_images/2022-12-02-gerihifi-lepetit/lepetit-head.png
 ---
 
->**"Le Petit - the ugly duck speaker! Full-range speaker re-loaded - audiophiler Hörgenuß für kleines Budget!"**
+>**"Le Petit, the ugly duck speaker! Full-range speaker reloaded - audiophiler Hörgenuß für kleines Budget!"**
 
 `LANGUAGE:` `German`
 
-Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www.youtube.com/watch?v=N7FF3AjmmDE&list=PLe6evB19z4Amx82av-r2jUlAn6gGVDpyU) darüber gehört habe, war meine Neugierde geweckt! Darüber hinaus hat auch Torsten von [Snake Oil Audio][](https://www.amazon.de/gp/product/B0154PEM6S?ie%3DUTF8%26th%3D1%26linkCode%3Dsl1%26tag%3Dfrankswerks05-21%26linkId%3D77c49fc8854cbf80ebec20e3f044cdce%26language%3Dde_DE%26ref_%3Das_li_ss_tl)(https://www.youtube.com/channel/UCQFGU3xz1EL20pDYVyTk9LQ) kurz danach ein Video erfasst und nun war ich endgültig _an-gefixt_!
+Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www.youtube.com/watch?v=N7FF3AjmmDE&list=PLe6evB19z4Amx82av-r2jUlAn6gGVDpyU) darüber gehört habe, war meine Neugierde geweckt! Darüber hinaus hat auch Torsten von [Snake Oil Audio](https://www.amazon.de/gp/product/B0154PEM6S?ie%3DUTF8%26th%3D1%26linkCode%3Dsl1%26tag%3Dfrankswerks05-21%26linkId%3D77c49fc8854cbf80ebec20e3f044cdce%26language%3Dde_DE%26ref_%3Das_li_ss_tl)(https://www.youtube.com/channel/UCQFGU3xz1EL20pDYVyTk9LQ) kurz danach ein Video erfasst und nun war ich endgültig _an-gefixt_!
 
 >>**:notes: Hintergrund zu Le Petit
 
