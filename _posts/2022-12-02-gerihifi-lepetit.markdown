@@ -10,7 +10,7 @@ image: /assets/article_images/2022-12-02-gerihifi-lepetit/lepetit-head.png
 
 `LANGUAGE:` `German`
 
-Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www.youtube.com/watch?v=N7FF3AjmmDE&list=PLe6evB19z4Amx82av-r2jUlAn6gGVDpyU) darüber gehört habe, war meine Neugierde geweckt! Darüber hinaus hat auch Torsten von [Snake Oil Audio](https://www.youtube.com/channel/UCQFGU3xz1EL20pDYVyTk9LQ) kurz danach ein Video erfasst und nun war ich endgültig _an-gefixt_!
+Nachdem ich das erste mal in den [YT-Videos von Janos/Real World Audio](https://www.youtube.com/watch?v=N7FF3AjmmDE&list=PLe6evB19z4Amx82av-r2jUlAn6gGVDpyU) darüber gehört habe, war meine Neugierde geweckt! Darüber hinaus hat auch Torsten von [Snake Oil Audio](https://www.youtube.com/channel/UCQFGU3xz1EL20pDYVyTk9LQ) kurz danach ein Video erfasst und nun war ich endgültig _angefixt_!
 
 >>**:notes: Hintergrund zur Le Petit**
 
@@ -24,7 +24,6 @@ Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www
 
 ![]({{ "/assets/article_images/2022-12-02-gerihifi-lepetit/FE103E-Zigmahornet-Speaker-Enclosure-plan.gif" | prepend: site.baseurl }} "gerihifi le petit")
 
----
 
 >>**:notes: Mein Le Petit DIY Projekt....**
 
@@ -36,9 +35,11 @@ Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www
 
 Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nicht jeder der in einer Großstadt lebt hat ein Haus) ausreichend Platz habe, lasse ich die Holzteile bei meinem Online-Tischler, Reto Scheidegger ([Holzladen-Shop](https://holzladen.shop/)) CNC-fräsen. Ich habe schon einiges bei Ihm in Auftrag gegeben, jedes einzelne Stück perfekt & immer 100% akkurat!
 
-- Le Petit Zeichnung an Holzshop versendet, mit einer Besonderheit: die Fostex 103 NV2 will ich leicht versenkt haben (2-3mm) und nicht direkt auf Außenchassis schrauben (Empfehlung von Janos).
+- Le Petit Zeichnung an Holzshop versendet, mit einer Besonderheit: die Fostex 103 NV2 will ich leicht versenkt haben (2-3mm) und nicht direkt auf Außenchassis schrauben (Empfehlung von Janos)
 
 **Stückliste, holzladen.shop:**
+
+---
 
 | Anzahl | Position | Preis (Stand: 19.11.2022) |
 | :--- | :--- |  :--- |
@@ -49,6 +50,8 @@ Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nich
 | 4 | MDF roh 25mm, 302mm x 177mm | €17,36 |
 | 1 | Versandkosten DHL Paket | €8,90 |
 | | GESAMTPREIS mit MwSt.: | **€204,90** |
+
+---
 
 - Bestellung Fostex 103 NV2 über Ebay-Händler (hoher Antrag, nicht immer verfügbar)..geduldig suchen ;-)
 
