@@ -39,7 +39,7 @@ As I like simple and clean Hifi-chains, as well proper cabling - it was obvious 
 
 ---
 
->>**:notes: STEP #1: Let's see what's the Hifi market offers, from simple to more advanced ones.
+>>**:notes: STEP #1: Let's see what's the Hifi market offers, from simple to more advanced ones.**
 
 I realized the usual vendors like Solidsteel, State of the Art, Creaktiv or Solid Tech looked somehow similar. On the other hand very _cold design_ as many of them use mainly metal, which I don't like at all.
 
@@ -52,12 +52,13 @@ It was also interesting to experience real issues, to find a rack with some dece
 - Using material which are not resonating by default, like glass or metal
 - ...always quite important: must fit our living room :smile:
 
->>**:notes: STEP #2: Define a basic, modular, nice-looking, wood-based DIY rack - with key absorber
+>>**:notes: STEP #2: Define a basic, modular, nice-looking, wood-based DIY rack - with key absorber**
 
-- Just use [draw.io](https://app.diagrams.net/) to create the initial design - Download XML [here](/assets/article_images/2022-11-02-gerihifi-diy-hifirack/hifirack_en.drawio)
+- Just use [draw.io](https://app.diagrams.net/) to create the initial design - Download my XML [here](/assets/article_images/2022-11-02-gerihifi-diy-hifirack/hifirack_en.drawio)
 - It includes also absorber and spikes I use (BFly Audio & Viablue QTC)
 - Wood: BauBuche Paneel (no idea how to translate into Englisch ;-)
 - Oiling: Rubio Monocoat Oil plus 2C Havanna
+- Screw thread size: M8 (pay attention to proper spikes for heavy load, I used up to 25kg per board and first one for 50kg)
 
 **Some impressions....**
 
