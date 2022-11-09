@@ -16,7 +16,7 @@ Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www
 
 - Original Auszug, aus der **Audiopile n°31, février 1984** [PDF](/assets/article_images/2022-12-02-gerihifi-lepetit/LeFostexFE-103Sigma.pdf)
 - Als Grundlage hatte Jean Hiraga einen Fostex FE-103 Sigma (1. Generation) Treiber und ein sehr eigenwilliges Chassis
-- Danach gab es einige verschiedene Chassis-Versionen:
+- Danach gab es eine Vielzahl an verschiedene Chassis-Versionen, hier ein kleiner Auszug:
 
 ![]({{ "/assets/article_images/2022-12-02-gerihifi-lepetit/fostex-fe103-e-usw_43145.jpg" | prepend: site.baseurl }} "gerihifi le petit")
 
@@ -26,17 +26,29 @@ Nachdem ich das erste mal die [YT-Videos von Janos/Real World Audio](https://www
 
 ---
 
->>**:notes: Mein Le Petit DIY Projekt....
+>>**:notes: Mein Le Petit DIY Projekt....**
 
-**Schritt 1:** - ordentliche Zeichnung besorgen, hier hat im SnakeOilAudio Forum Roger [seine PDF's](/assets/article_images/2022-12-02-gerihifi-lepetit/le-petit-blau-zeichnung.pdf) geteilt.
+**Schritt 1:** - ordentliche Zeichnung besorgen, hier hat im SnakeOilAudio Forum, Roger [seine PDF's](/assets/article_images/2022-12-02-gerihifi-lepetit/le-petit-blau-zeichnung.pdf) geteilt.
 
-**Schritt 2:** - mal nachforschen, wer schon aktuelle Erfahrung damit gemacht hat. Hier hat Jürgen seine Let petit [Bauanleitung YT-Videos](https://www.youtube.com/channel/UCFn3W7mRvwkY7bviZ8eDoYQ) zur Verfügung gestellt. Alleine seine sympathische Ausstrahlung und seine professionellen Aufnahmen, sind es schon wert sich anzusehen - **Chapeau!**
+**Schritt 2:** - mal nachforschen, wer schon aktuelle Erfahrung damit gemacht hat. Hier hat Jürgen seine Let Petit [Bauanleitung YT-Videos](https://www.youtube.com/channel/UCFn3W7mRvwkY7bviZ8eDoYQ) zur Verfügung gestellt. Alleine seine sympathische Ausstrahlung und seine professionellen Aufnahmen, sind es schon wert sich diese anzusehen - **Chapeau!!**
 
 **Schritt 3:** - mit meinem Le Petit Bau starten...
 
-Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nicht jeder der in einer Großstadt lebt hat ein Haus) ausreichend Platz, lass ich die Holzteile bei meinem Online-Tischler, Reto Scheidegger ([Holzladen-Shop](https://holzladen.shop/)) CNC-fräsen. Ich habe schon einiges bei Ihm in Auftrag gegeben, jedes einzelne Stück perfekt & immer 100% akkurat!
+Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nicht jeder der in einer Großstadt lebt hat ein Haus) ausreichend Platz habe, lasse ich die Holzteile bei meinem Online-Tischler, Reto Scheidegger ([Holzladen-Shop](https://holzladen.shop/)) CNC-fräsen. Ich habe schon einiges bei Ihm in Auftrag gegeben, jedes einzelne Stück perfekt & immer 100% akkurat!
 
 - Le Petit Zeichnung an Holzshop versendet, mit einer Besonderheit: die Fostex 103 NV2 will ich leicht versenkt haben (2-3mm) und nicht direkt auf Außenchassis schrauben (Empfehlung von Janos).
+
+**Stückliste, holzladen.shop:**
+
+| Anzahl | Position | Preis (Stand: 19.11.2022) |
+| :--- | :--- |  :--- |
+| 2 | Schallwände gefertigt aus MDF roh 25mm, 546mm x 342mm, gefräst nach Ihren Angaben | €84,36 |
+| 2 | Stück MDF roh 25mm, 546mm x 352mm | €24,36 |
+| 2 | Stück Front Doppel aus MDF roh 25mm, 300mm x 300mm, gefräst nachIhren Angaben | €44,61 |
+| 4 | MDF roh 25mm, 546mm x 177mm | €24,77 |
+| 4 | MDF roh 25mm, 302mm x 177mm | €17,36 |
+| 1 | Versandkosten DHL Paket | €8,90 |
+| | GESAMTPREIS mit MwSt.: | **€204,90** |
 
 - Bestellung Fostex 103 NV2 über Ebay-Händler (hoher Antrag, nicht immer verfügbar)..geduldig suchen ;-)
 
