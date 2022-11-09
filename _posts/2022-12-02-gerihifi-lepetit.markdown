@@ -53,11 +53,11 @@ Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nich
 
 ---
 
-- Bestellung Fostex 103 NV2 über Ebay-Händler (hoher Antrag, nicht immer verfügbar)..geduldig suchen ;-)
+- Bestellung Fostex 103 NV2 über Ebay-Händler (hoher Antrang, nicht immer verfügbar)..geduldig suchen ;->
 
-- Bestellung Dämmmaterial: Schafwoll-Filzmatte 300 g/m² (Bsp. [Amazon](https://www.amazon.de/gp/product/B0154PEM6S))
+- Bestellung Dämmmaterial: Schafwoll-Filzmatte 300 g/m² (Bsp. [Amazon](https://www.amazon.de/gp/product/B0154PEM6S) 2x 0.5m)
 
-- Bestellung Lautsprecherkabel: Supra [Cables PLY2](https://www.highend-audiokabel.de/supra-cables-ply-2-x-20-lautsprecherkabel-meterware.html) x 2.0
+- Bestellung Lautsprecherkabel: Supra [Cables PLY2](https://www.highend-audiokabel.de/supra-cables-ply-2-x-20-lautsprecherkabel-meterware.html) x2.0 + Silent Wire Bananenstecker Serie 38 silber
 
 
 ![]({{ "/assets/article_images/2022-12-02-gerihifi-lepetit/" | prepend: site.baseurl }} "gerihifi le petit")
