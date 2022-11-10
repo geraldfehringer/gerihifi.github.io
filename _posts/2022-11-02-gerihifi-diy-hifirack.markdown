@@ -9,6 +9,8 @@ image: /assets/article_images/2022-11-02-gerihifi-diy-hifirack/highendrack.jpg
 >**_Why do I need one? What does it do?_** \
 >**_Does it really influence the sound? Do all racks achieve the same result?"_**
 
+`LANGUAGE:` `English`
+
 **Questions, questions ....**
 
 As I like simple and clean Hifi-chains, as well proper cabling - it was obvious that I need some decent rack to place the equipment in a sonic-optimal and safe way.

@@ -53,7 +53,7 @@ Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nich
 
 ---
 
-- Bestellung Fostex 103 NV2 über Ebay-Händler (hoher Antrang, nicht immer verfügbar)..geduldig suchen ;->
+- Bestellung Fostex 103 NV2 über Ebay-Händler (hoher Andrang, nicht immer verfügbar)
 
 - Bestellung Dämmmaterial: Schafwoll-Filzmatte 300 g/m² (Bsp. [Amazon](https://www.amazon.de/gp/product/B0154PEM6S) 2x 0.5m)
 
@@ -64,4 +64,14 @@ Da ich keine professionelle Werkstatt habe, weder in unserer Wohnung (nein, nich
 
 **Welchen Röhrenverstärker nutze ich?**
 
-- DIY: der Verstärker ist mit 2x EL84 JJ Röhren als Endstufe und einer ECC83 JJ als Treiber aufgebaut.
+- **DIY:** der Verstärker ist mit 2x EL84 JJ Röhren als Endstufe und einer ECC83 JJ als Treiber aufgebaut.
+
+![]({{ "/assets/article_images/2022-12-02-gerihifi-lepetit/20221110_082241.jpg" | prepend: site.baseurl }} "gerihifi diy amp")
+
+![]({{ "/assets/article_images/2022-12-02-gerihifi-lepetit/20221110_082249.jpg" | prepend: site.baseurl }} "gerihifi diy amp")
+
+---
+
+>>**:notes: Le Petit Impressionen...**
+
+![]({{ "/assets/article_images/2022-12-02-gerihifi-lepetit/" | prepend: site.baseurl }} "gerihifi le petit")

@@ -10,6 +10,8 @@ image: /assets/article_images/2022-09-24-gerihifi-the-beginning/dac1.png
 >&nbsp; &nbsp; **_"Without noise, it's artificial!"_** \
 >&nbsp; &nbsp; &nbsp; _...welcome to the world of digital._
 
+`LANGUAGE:` `English`
+
 **My journey with ADC or is it D/A :thinking:**
 
 **PART 1.**
