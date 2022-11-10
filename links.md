@@ -2,7 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
-image: /assets/images/youtube-background1.jpg
+image: /assets/images/links_background.png
 ---
 
 ## ![]({{ "/assets/images/youtube.png" | prepend: site.baseurl }} "Janos - Real World Audio") Curated Links
