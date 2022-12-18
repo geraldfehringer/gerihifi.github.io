@@ -3,7 +3,7 @@ layout: post
 title:  "DIY - wie meine Reise begann.."
 date:   2022-08-01 08:00:01
 categories: hifi diy mentoring
-image: /assets/article_images/2022-12-02-gerihifi-lepetit/lepetit-head.png
+image: /assets/article_images/2022-08-01-gerihifi-diy/geridiy-head.png
 ---
 
 >**"Do-It-Yourself (DIY) - im audiophilen Bereich?"**
