@@ -19,11 +19,16 @@ Auch hier sehe ich ziemlich absurde Entwicklungen, wie Antipodes, Aurender oder 
 
 Somit begann ich 2019 mich intensiver damit auseinanderzusetzen und kam auf die Mentoring [YT-Videos von Janos/Real World Audio](https://www.youtube.com/watch?v=N7FF3AjmmDE&list=PLe6evB19z4Amx82av-r2jUlAn6gGVDpyU) und zum Channel von [Larry/Real HIFI Help](https://www.youtube.com/@RealHIFIHelp) und meine Neugierde war geweckt, doch etwas fundierter "hinter" die Audiophilen-Kulissen zu schauen.
 
-2021 (in meinem Covid-Wahn) habe ich mir neue Lautsprecher gekauft (ELAC Concentro S507) und meine Marantz PM-KI Ruby gegen einen Michi Rotel X5 getauscht. Ja, mit Kabelage und Niagara 3000 Stromfilter hatte ich kurz €26k ausgegeben. Zu dem Zeitpunkt war ich
-noch nicht versiert genug, auf DIY-Alternativen zurück zu greifen!
+2021 (in meinem Covid-Wahn) habe ich mir neue Lautsprecher gekauft (KEF Reference gegen ELAC Concentro S507 ausgetauscht) und meine Marantz PM-KI Ruby gegen einen Michi Rotel X5 getauscht. Ja, mit Kabelage und Niagara 3000 Stromfilter hatte ich kurz €26k ausgegeben. Zu dem Zeitpunkt war ich noch nicht versiert genug, auf DIY-Alternativen zurück zu greifen!
+
+Darüber hinaus bin auch ich in den Teufelskreis (zum Glück nur kurz) des Audipohilen-Sammlers zu werden. Gerade im D/A (DAC) Bereich hatte ich einiges ausgetestet und da sind die Preise ja noch absurder als im Lautsprecherbereich. Zur neuen Anlage gesellte sich ein Weiss DAC 501, den ich kurz danach auf die neue MK2/4-Channel Version modifizieren habe lassen.
 
 **Somit begann ich Ende 2021 mich intensiver zum Thema "Audiophile" auseinanderzusetzen und mir wurde schnell bewusst, wie "krank" die Szene teilweise ist und welche Summen die Leute bereit sind auszugeben, OHNE darüber nachzudenken!**
 
 > Online Mentoring Empfehlungen
 
 - Siehe meine Video-Linkliste: https://gerihifi.zerohat.eu/videos/
+
+> Meine Beginner-Werkstatt Ausstattung
+
+
