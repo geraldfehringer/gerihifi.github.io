@@ -10,6 +10,8 @@ image: /assets/article_images/2022-08-01-gerihifi-diy/geridiy-head.png
 
 `LANGUAGE:` `German`
 
+**Musik HÖREN ist einer meiner wichtigen Alttagseigenschaften und liebe die Genre-Vielfalt. Ich hatte viele unterschiedliche Mainstream-Anlagen und Sonos in jedem Raum zum 'nebenbei-radio-podcast' hören.**
+
 Mein Background ist Informatik und mit Elektronik habe ich immer nur am Rande rumgespielt, hier war im Fokus alles rund um
 Streaming- und Musikserver. Jedoch hat sich hier so viel in den letzten Jahren getan, dass ich hier kein großes Interesse mehr habe.
 
