@@ -25,7 +25,7 @@ Somit begann ich 2019 mich intensiver damit auseinanderzusetzen und kam auf die 
 
 Darüber hinaus bin auch ich in den Teufelskreis (zum Glück nur kurz) des Audipohilen-Sammlers zu werden. Gerade im D/A (DAC) Bereich hatte ich einiges ausgetestet und da sind die Preise ja noch absurder als im Lautsprecherbereich. Zur neuen Anlage gesellte sich ein Weiss DAC 501 (gebraucht €6k), den ich kurz danach auf die neue MK2/4-Channel Version (€1.9k) modifizieren habe lassen.
 
->**Ich nenne die Preise bewusst, nicht um anzugeben (was ja lächerlich wäre, da aus Sicht "Highend", ja lächerliches Anfänger-Setup), sondern um aufzuzeigen, wie schnell man Geld für das Hobby 'loswerden' kann und sich UNBEDINGT intensiv vorher auseinandersetzen sollte: WAS WILL ICH WIRKLICH? MUSIK HÖREN & GANZE ZEIT MEINE HARDWARE MODIFZIEREN?**
+>**Ich nenne die Preise bewusst, nicht um anzugeben (was ja lächerlich wäre, da aus Sicht "Highend", ja jämmerliches Anfänger-Setup), sondern um aufzuzeigen, wie schnell man Geld für das Hobby 'loswerden' kann und sich UNBEDINGT intensiv vorher auseinandersetzen sollte: WAS WILL ICH WIRKLICH? MUSIK HÖREN ODER GANZE ZEIT MEINE HARDWARE MODIFZIEREN?**
 
 **Somit begann ich Ende 2021 mich intensiver zum Thema "Audiophile" auseinanderzusetzen und mir wurde schnell bewusst, wie "krank" die Szene teilweise ist und welche Summen die Leute bereit sind auszugeben, OHNE darüber nachzudenken!**
 
